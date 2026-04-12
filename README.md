@@ -271,6 +271,8 @@ Traces downloaded from the official [DPC-3 repository](https://dpc3.compas.cs.st
 
 ## Results
 
+![IPC Comparison Charts](images/results_chart.png)
+
 ### IPC Improvement over LRU Baseline
 
 | Benchmark | Instructions | LRU IPC | BB-DSB IPC | **Improvement** |
