@@ -289,6 +289,10 @@ Traces downloaded from the official [DPC-3 repository](https://dpc3.compas.cs.st
 | 429.mcf (50M) | 1,395,537 | 1,689,915 | **+294,378 (+21.1%)** |
 | 482.sphinx3 (5M) | 2,467 | 7,385 | **+4,918 (+199%)** |
 
+### Terminal Output — mcf Benchmark (50M Instructions)
+
+![mcf Simulation Results](images/mcf_results.png)
+
 ### Bypass Buffer Statistics (mcf, 50M instructions)
 
 ```
